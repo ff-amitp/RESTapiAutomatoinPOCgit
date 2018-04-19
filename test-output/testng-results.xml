@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3307" started-at="2018-04-19T13:51:22Z" finished-at="2018-04-19T13:51:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3307" started-at="2018-04-19T13:51:22Z" finished-at="2018-04-19T13:51:25Z">
+      <class name="googleAPITestsXml.FinalGoogleSearchAPIScriptXml">
+        <test-method status="PASS" signature="getPropertiesData()[pri:0, instance:googleAPITestsXml.FinalGoogleSearchAPIScriptXml@f6c48ac]" name="getPropertiesData" is-config="true" duration-ms="7" started-at="2018-04-19T13:51:22Z" finished-at="2018-04-19T13:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPropertiesData -->
+        <test-method status="PASS" signature="getGooglePlaceDetails()[pri:0, instance:googleAPITestsXml.FinalGoogleSearchAPIScriptXml@f6c48ac]" name="getGooglePlaceDetails" duration-ms="2080" started-at="2018-04-19T13:51:22Z" finished-at="2018-04-19T13:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getGooglePlaceDetails -->
+        <test-method status="PASS" signature="postAndDeleteGooglePlaceDetails()[pri:0, instance:googleAPITestsXml.FinalGoogleSearchAPIScriptXml@f6c48ac]" name="postAndDeleteGooglePlaceDetails" duration-ms="810" started-at="2018-04-19T13:51:24Z" finished-at="2018-04-19T13:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAndDeleteGooglePlaceDetails -->
+        <test-method status="PASS" signature="postGooglePlaceDetails()[pri:0, instance:googleAPITestsXml.FinalGoogleSearchAPIScriptXml@f6c48ac]" name="postGooglePlaceDetails" duration-ms="389" started-at="2018-04-19T13:51:24Z" finished-at="2018-04-19T13:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postGooglePlaceDetails -->
+      </class> <!-- googleAPITestsXml.FinalGoogleSearchAPIScriptXml -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
