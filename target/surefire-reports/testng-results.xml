@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3278" started-at="2018-04-19T13:54:36Z" finished-at="2018-04-19T13:54:39Z">
+  <suite name="Suite" duration-ms="3821" started-at="2018-04-25T13:45:22Z" finished-at="2018-04-25T13:45:26Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3278" started-at="2018-04-19T13:54:36Z" finished-at="2018-04-19T13:54:39Z">
+    <test name="Test" duration-ms="3821" started-at="2018-04-25T13:45:22Z" finished-at="2018-04-25T13:45:26Z">
       <class name="googleAPITestsJson.FinalGoogleSearchAPIScript">
-        <test-method status="PASS" signature="getPropertiesData()[pri:0, instance:googleAPITestsJson.FinalGoogleSearchAPIScript@43a25848]" name="getPropertiesData" is-config="true" duration-ms="5" started-at="2018-04-19T19:24:36Z" finished-at="2018-04-19T19:24:36Z">
+        <test-method status="PASS" signature="getPropertiesData()[pri:0, instance:googleAPITestsJson.FinalGoogleSearchAPIScript@7d417077]" name="getPropertiesData" is-config="true" duration-ms="5" started-at="2018-04-25T19:15:22Z" finished-at="2018-04-25T19:15:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getPropertiesData -->
-        <test-method status="PASS" signature="getGooglePlaceDetails()[pri:0, instance:googleAPITestsJson.FinalGoogleSearchAPIScript@43a25848]" name="getGooglePlaceDetails" duration-ms="1987" started-at="2018-04-19T19:24:36Z" finished-at="2018-04-19T19:24:38Z">
+        <test-method status="PASS" signature="getGooglePlaceDetails()[pri:0, instance:googleAPITestsJson.FinalGoogleSearchAPIScript@7d417077]" name="getGooglePlaceDetails" duration-ms="2370" started-at="2018-04-25T19:15:22Z" finished-at="2018-04-25T19:15:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getGooglePlaceDetails -->
-        <test-method status="PASS" signature="postAndDeleteGooglePlaceDetails()[pri:0, instance:googleAPITestsJson.FinalGoogleSearchAPIScript@43a25848]" name="postAndDeleteGooglePlaceDetails" duration-ms="874" started-at="2018-04-19T19:24:38Z" finished-at="2018-04-19T19:24:39Z">
+        <test-method status="PASS" signature="postAndDeleteGooglePlaceDetails()[pri:0, instance:googleAPITestsJson.FinalGoogleSearchAPIScript@7d417077]" name="postAndDeleteGooglePlaceDetails" duration-ms="786" started-at="2018-04-25T19:15:24Z" finished-at="2018-04-25T19:15:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postAndDeleteGooglePlaceDetails -->
-        <test-method status="PASS" signature="postGooglePlaceDetails()[pri:0, instance:googleAPITestsJson.FinalGoogleSearchAPIScript@43a25848]" name="postGooglePlaceDetails" duration-ms="406" started-at="2018-04-19T19:24:39Z" finished-at="2018-04-19T19:24:39Z">
+        <test-method status="PASS" signature="postGooglePlaceDetails()[pri:0, instance:googleAPITestsJson.FinalGoogleSearchAPIScript@7d417077]" name="postGooglePlaceDetails" duration-ms="650" started-at="2018-04-25T19:15:25Z" finished-at="2018-04-25T19:15:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postGooglePlaceDetails -->
